@@ -1,0 +1,20 @@
+{
+  "name": "azure-app-service-demo",
+  "version": "1.0.0",
+  "description": "Aplicación Node.js para App Service de Azure",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["azure", "app-service", "nodejs"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  }
+}
+
